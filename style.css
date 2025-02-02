@@ -1,0 +1,89 @@
+body {
+  background: rgb(0,0,0);
+  background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(9,22,121,1) 4%, rgba(0,0,0,1) 26%);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  display: flexbox;
+  color: whitesmoke;
+}
+
+
+
+.banner-content {
+  text-align: center;
+  background-image: url(assets/images/banner.png);
+  background-size: cover;
+  background-position: center;
+
+}
+
+button {
+  background-color: rgba(104, 176, 207, 0.815);
+  color: blue;
+  padding: 10px 20px;
+  border: 2px solid blue;
+  border-radius: 10px;
+  margin-bottom: 5px;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+#maverickv8 {
+  color: white;
+  text-align: center;
+  width: 700px;
+  margin: 10px auto;
+}
+
+
+
+#logo1 {
+  color: rgb(17, 39, 165);
+  text-align: center;
+  margin: 10px auto;
+  width: 900px;
+
+}
+
+.module {
+  background-color: grey;
+  color: white;
+  text-align: center;
+  border: 1px solid blue;
+  padding: 10px;
+  width: 300px;
+  margin: 10px auto;
+  border-radius: 1rem;
+}
+
+#zoro {
+  color: blue;
+}
+
+#transform-world {
+  background-image: url(assets/images/woman-code.png);
+  width: 1340px;
+  height: 363px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+#text-transform-world {
+  font-size: 30px;
+  margin-left: 200px;
+  padding-top: 150px;
+}
+
+/* #text-transform-world{
+text-align: left;
+padding-left: 10px;
+width: 50px;
+border: 1px red solid;
+} */
+#professional-challenges {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+}
